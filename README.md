@@ -1,6 +1,6 @@
-# ReduxStart1
+# ReduxStart
 
-###Getting Started###
+(ทำความเข้าใจก่อนเริ่ม)
 
 เริ่มต้นทดสอบการทำงานของ Redux.
 
@@ -8,18 +8,16 @@
 หากต้องการตัวอย่างของตัวโปรเจค โหลดได้ตาม url github
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxStart1 (.ชื่อไฟล์งาน.)
-	> npm install
-	> npm start
+- git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+- cd ReduxStart1 (.ชื่อไฟล์งาน.)
+- npm install
+- npm start
 ```
 
-####หากไม่สามารถโหลดผ่าน git ได้ ให้โหลดเป็น zip แทน?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  
-Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+*หากไม่สามารถโหลดผ่าน git ได้ ให้โหลดเป็น zip แทน#
 
 ```
-  > แตกไฟล์ งาน
-	> npm install
-	> npm start
+- แตกไฟล์ งาน
+- npm install
+- npm start
 ```
