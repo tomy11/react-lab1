@@ -1,6 +1,6 @@
 # ReduxStart
 
-###ทำความเข้าใจก่อนเ###ม)
+###ทำความเข้าใจก่อนเริ่ม###
 
 เริ่มต้นทดสอบการทำงานของ Redux.
 
@@ -8,7 +8,7 @@
 หากต้องการตัวอย่างของตัวโปรเจค โหลดได้ตาม url github
 
 ```
-- git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
+- git clone https://github.com/tomy11/react-lab1.git
 - cd ReduxStart1 (.ชื่อไฟล์งาน.)
 - npm install
 - npm start
